@@ -1,7 +1,7 @@
 {
-  "name": "qude-sdkv1",
+  "name": "pillar-sdk",
   "version": "1.0.0",
-  "description": "Terminal-based SDK for interacting with QudeAI agents",
+  "description": "Command-line interface SDK for interacting with PillarAI agents",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
